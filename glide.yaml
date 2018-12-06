@@ -1,0 +1,7 @@
+import:
+- package: github.com/golang/protobuf
+  subpackages:
+  - proto
+  version: 9c8fb7a95075eb047ab75e702de52f68ff360f17
+package: github.com/onsi/gomega
+
